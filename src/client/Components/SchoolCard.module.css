@@ -1,0 +1,19 @@
+.title {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-bottom: .25em;
+}
+
+.title:hover {
+    color: rgb(77, 77, 77);
+}
+
+.description{
+    color: rgb(71, 71, 71);
+}
+
+.card{
+    display: grid;
+    padding: .75em 0;
+}

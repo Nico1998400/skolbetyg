@@ -1,0 +1,465 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "gymnasieskola",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6986805076, 56.0455921687 ]
+			},
+			"properties" : {
+				"OBJECTID" : 163,
+				"namn" : "Campeon frigymnaisum",
+				"gatuadress" : "Södra Storgatan 23",
+				"omrade" : "Centrum",
+				"url" : "http://campeon.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6973234062, 56.0442786021 ]
+			},
+			"properties" : {
+				"OBJECTID" : 164,
+				"namn" : "Drottning Blankas Gy Prästg ",
+				"gatuadress" : "Prästgatan 10",
+				"omrade" : "Centrum",
+				"url" : "prastgatan.dbgy.se",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6952739718, 56.0456310942 ]
+			},
+			"properties" : {
+				"OBJECTID" : 165,
+				"namn" : "Drottning Blankas Gy Södra Kyrkog ",
+				"gatuadress" : "Södra Kyrkogatan 4",
+				"omrade" : "Centrum",
+				"url" : "mikaesl.fors@bgy.se",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8572484316, 55.9641953565 ]
+			},
+			"properties" : {
+				"OBJECTID" : 166,
+				"namn" : "G O Kompetens transportgymnasium",
+				"gatuadress" : "Skogsstigen 8",
+				"omrade" : "Vallåkra",
+				"url" : "http://www.gokompetens.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6941486684, 56.0455031906 ]
+			},
+			"properties" : {
+				"OBJECTID" : 167,
+				"namn" : "Helsingborgs ridgymnasium",
+				"gatuadress" : "Södra Kyrkogatan 1",
+				"omrade" : "Dalhem",
+				"url" : "http://www.ridgymnasiet.nu/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.735361527, 56.0080030892 ]
+			},
+			"properties" : {
+				"OBJECTID" : 168,
+				"namn" : "Helsingborgs sportgymnasium",
+				"gatuadress" : "Landskronavägen 22",
+				"omrade" : "Råå",
+				"url" : "http://www.hbgsportgymnasium.com/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7274268921, 56.020429289 ]
+			},
+			"properties" : {
+				"OBJECTID" : 169,
+				"namn" : "Impius gymnasium",
+				"gatuadress" : "Landskronavägen 1",
+				"omrade" : "Miatorp",
+				"url" : "http://www.impius.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7001071873, 56.0422030051 ]
+			},
+			"properties" : {
+				"OBJECTID" : 170,
+				"namn" : "NIT-gymnasiet",
+				"gatuadress" : "Carl Krooks Gata 9",
+				"omrade" : "Söder",
+				"url" : "http://www.it-gymnasiet.se/helsingborg/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6988859542, 56.0412537211 ]
+			},
+			"properties" : {
+				"OBJECTID" : 171,
+				"namn" : "Jensen gymnasium",
+				"gatuadress" : "Kaliforniegatan 4",
+				"omrade" : "Söder",
+				"url" : "http://www.jensengymnasium.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7000486194, 56.0438820727 ]
+			},
+			"properties" : {
+				"OBJECTID" : 172,
+				"namn" : "Johannes Hedberggymnasiet",
+				"gatuadress" : "Trädgårdsgatan 25",
+				"omrade" : "Centrum",
+				"url" : "http://www.folkuniversitetet.se/jhg/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6974957629, 56.0437423296 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173,
+				"namn" : "Ljud- och bildskolan",
+				"gatuadress" : "Bruksgatan 29",
+				"omrade" : "Centrum",
+				"url" : "http://www.lbs.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6961820236, 56.0434685895 ]
+			},
+			"properties" : {
+				"OBJECTID" : 174,
+				"namn" : "Mega Musik gymnasieskola AB",
+				"gatuadress" : "Järnvägsgatan 25",
+				"omrade" : "Centrum",
+				"url" : "http://www.megamusik.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7241148965, 56.0755452403 ]
+			},
+			"properties" : {
+				"OBJECTID" : 177,
+				"namn" : "Praktiska gymnasiet, Helsingborg ",
+				"gatuadress" : "Muskötgatan 13",
+				"omrade" : "Berga",
+				"url" : "http://www.praktiska.se/helsingborg/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6969131099, 56.0467610027 ]
+			},
+			"properties" : {
+				"OBJECTID" : 178,
+				"namn" : "Procivitas privata gymnasium",
+				"gatuadress" : "Billeplatsen 1",
+				"omrade" : "Centrum",
+				"url" : "http://www.procivitas.se/helsingborg/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6954684141, 56.0458295337 ]
+			},
+			"properties" : {
+				"OBJECTID" : 179,
+				"namn" : "Realgymnasiet Helsingborg",
+				"gatuadress" : "Södra Kyrkogatan 7",
+				"omrade" : "Centrum",
+				"url" : "http://www.realgymnasiet.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6953532614, 56.0456765193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 182,
+				"namn" : "Thoren Business School",
+				"gatuadress" : "Södra Kyrkogatan 4",
+				"omrade" : "Centrum",
+				"url" : "http://affarsgymnasiet.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.698759801, 56.0456375916 ]
+			},
+			"properties" : {
+				"OBJECTID" : 183,
+				"namn" : "Thorren Innovation Shool Helsingborg",
+				"gatuadress" : "Södra Storgatan 23",
+				"omrade" : "Centrum",
+				"url" : "petra.jarrenberg@innovarionsgymnasiet.se",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.695104626, 56.0444821705 ]
+			},
+			"properties" : {
+				"OBJECTID" : 185,
+				"namn" : "Victum gymnasium",
+				"gatuadress" : "Järnvägsgatan 13",
+				"omrade" : "Centrum",
+				"url" : "http://www.victumgymnasium.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7009155038, 56.0425442256 ]
+			},
+			"properties" : {
+				"OBJECTID" : 186,
+				"namn" : "NTI Vetenskapsgymnasiet",
+				"gatuadress" : "Södergatan 10",
+				"omrade" : "Söder",
+				"url" : "https://www.ntigymnasiet.se/vetenskaphelsingborg/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6996318696, 56.0400808385 ]
+			},
+			"properties" : {
+				"OBJECTID" : 230,
+				"namn" : "Cultura gymnasium",
+				"gatuadress" : "Konsul Perssons plats 1B",
+				"omrade" : "Söder",
+				"url" : "http://www.culturagymnasium.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7090237196, 56.0465080072 ]
+			},
+			"properties" : {
+				"OBJECTID" : 175,
+				"namn" : "Nicolaiskolan",
+				"gatuadress" : "Studievägen 2",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/nicolaiskolan",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7077346946, 56.0484300762 ]
+			},
+			"properties" : {
+				"OBJECTID" : 176,
+				"namn" : "Olympiaskolan",
+				"gatuadress" : "Södra Stenbocksgatan 75",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/olympiaskolan",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7009371938, 56.033451374 ]
+			},
+			"properties" : {
+				"OBJECTID" : 180,
+				"namn" : "Rönnowska skolan",
+				"gatuadress" : "Bredgatan 22",
+				"omrade" : "Söder",
+				"url" : "http://www.helsingborg.se/ronnowskaskolan ",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7091030271, 56.0465534235 ]
+			},
+			"properties" : {
+				"OBJECTID" : 181,
+				"namn" : "The International School",
+				"gatuadress" : "Studievägen 2",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/internationalschool ",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7120364732, 56.0466512504 ]
+			},
+			"properties" : {
+				"OBJECTID" : 184,
+				"namn" : "Tycho Braheskolan",
+				"gatuadress" : "Studievägen 4",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/tychobraheskolan",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7321867497, 56.0552413024 ]
+			},
+			"properties" : {
+				"OBJECTID" : 231,
+				"namn" : "Filbornaskolan",
+				"gatuadress" : "Filbornavägen 101",
+				"omrade" : "Fredriksdal",
+				"url" : "http://www.helsingborg.se/filbornaskolan",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6948479459, 56.0439683965 ]
+			},
+			"properties" : {
+				"OBJECTID" : 232,
+				"namn" : "Helsingborgs Lärlingsgymnasium",
+				"gatuadress" : "Järnvägsgatan 14 B",
+				"omrade" : "Centrum",
+				"url" : "https://larlingsgymnasium.helsingborg.se/",
+				"skoltyp" : "gymnasieskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		}
+	]
+}

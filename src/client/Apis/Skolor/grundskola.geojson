@@ -1,0 +1,1026 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "grundskola",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7088037516, 56.0574432451 ]
+			},
+			"properties" : {
+				"OBJECTID" : 108,
+				"namn" : "Centrumskolan",
+				"gatuadress" : "Gisela Trapps väg 3",
+				"omrade" : "Olympia",
+				"url" : "http://www.centrumskolan.se",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8787588207, 56.0585653967 ]
+			},
+			"properties" : {
+				"OBJECTID" : 109,
+				"namn" : "Corpore byskola",
+				"gatuadress" : "Brandmansgatan 5",
+				"omrade" : "Mörarp",
+				"url" : "http://www.impius.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7801930765, 55.9620312543 ]
+			},
+			"properties" : {
+				"OBJECTID" : 110,
+				"namn" : "Dibber International School Helsingborg",
+				"gatuadress" : "Klostervägen 12",
+				"omrade" : "Rydebäck",
+				"url" : "http://www.dibberinternational.com",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7264015011, 56.014902155 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113,
+				"namn" : "Fridaskolan",
+				"gatuadress" : "Planteringsvägen 139",
+				"omrade" : "Miatorp",
+				"url" : "https://fridaskolan.se/skolor/helsingborg/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7572001661, 56.0317673342 ]
+			},
+			"properties" : {
+				"OBJECTID" : 114,
+				"namn" : "Fyrklövern Dibber",
+				"gatuadress" : "Kungsljusgatan 22",
+				"omrade" : "Gustavslund",
+				"url" : "https://dibber.se/skola/fyrkloverns-skola/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7003633616, 56.041509085 ]
+			},
+			"properties" : {
+				"OBJECTID" : 120,
+				"namn" : "Innovitaskolan Helsingborg (tidigare PeterSvenskol",
+				"gatuadress" : "Carl Krooks gata 17",
+				"omrade" : "Söder",
+				"url" : "https://innovitaskolan.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6977428853, 56.0448132679 ]
+			},
+			"properties" : {
+				"OBJECTID" : 121,
+				"namn" : "Innovitaskolan Momentum (tidigare Momentum)",
+				"gatuadress" : "Karlsgatan 4",
+				"omrade" : "Centrum",
+				"url" : "https://innovitaskolan.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7090291869, 56.0391685353 ]
+			},
+			"properties" : {
+				"OBJECTID" : 124,
+				"namn" : "Internationella Engelska Skolan",
+				"gatuadress" : "Magistergatan 2",
+				"omrade" : "Högaborg",
+				"url" : "https://helsingborg.engelska.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9465969309, 55.9552966293 ]
+			},
+			"properties" : {
+				"OBJECTID" : 125,
+				"namn" : "Kingelstad Byskola - skola",
+				"gatuadress" : "Gultarpsvägen 5",
+				"omrade" : "Vallåkra",
+				"url" : "http://www.kingelstadbyskola.se",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7221589044, 56.0575171567 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126,
+				"namn" : "Kubikskolan Dibber",
+				"gatuadress" : "Larmvägen 31",
+				"omrade" : "Fredriksdal",
+				"url" : "https://dibber.se/skolor/kubikskolan ",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7006682742, 56.0472549426 ]
+			},
+			"properties" : {
+				"OBJECTID" : 127,
+				"namn" : "Kunskapsskolan Helsingborg",
+				"gatuadress" : "Bergaliden 15",
+				"omrade" : "Centrum",
+				"url" : "http://www.kunskapsskolan.se",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7352340668, 56.0061749861 ]
+			},
+			"properties" : {
+				"OBJECTID" : 128,
+				"namn" : "Kärnhuset Dibber",
+				"gatuadress" : "Starkoddersgatan 8",
+				"omrade" : "Råå",
+				"url" : "https://dibber.se/skola/karnhuset-dibber/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.685888552, 56.082323911 ]
+			},
+			"properties" : {
+				"OBJECTID" : 130,
+				"namn" : "Magelungen",
+				"gatuadress" : "Paviljonggången 3",
+				"omrade" : "Mariastaden",
+				"url" : "https://magelungen.com/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6889898567, 56.0805164468 ]
+			},
+			"properties" : {
+				"OBJECTID" : 132,
+				"namn" : "Montemini Helsingborgs Montessoriskola",
+				"gatuadress" : "Östra allén 15",
+				"omrade" : "Mariastaden",
+				"url" : "http://www.montemini.se",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.683963483, 56.0803747159 ]
+			},
+			"properties" : {
+				"OBJECTID" : 136,
+				"namn" : "Noblaskolan Mariastaden",
+				"gatuadress" : "Västra allén 11",
+				"omrade" : "Mariastaden",
+				"url" : "https://noblaskolan.se/mariastaden/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7488227875, 56.0526714831 ]
+			},
+			"properties" : {
+				"OBJECTID" : 137,
+				"namn" : "Pauliskolan",
+				"gatuadress" : "Norra Hunnetorpsvägen 115",
+				"omrade" : "Adolfsberg",
+				"url" : "http://www.pauliskolan.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7526469875, 56.0275190819 ]
+			},
+			"properties" : {
+				"OBJECTID" : 139,
+				"namn" : "Ramlösa friskola",
+				"gatuadress" : "Magnoliagatan 5",
+				"omrade" : "Gustavslund",
+				"url" : "http://www.ramlosafriskola.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7298165857, 56.053608625 ]
+			},
+			"properties" : {
+				"OBJECTID" : 145,
+				"namn" : "Sally Bauers högstadium",
+				"gatuadress" : "Brytstugevägen 2",
+				"omrade" : "Fredriksdal",
+				"url" : "http://www.sallybauer.com/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7344489723, 56.0563375607 ]
+			},
+			"properties" : {
+				"OBJECTID" : 146,
+				"namn" : "Sally Bauerskolan",
+				"gatuadress" : "Filbornavägen 103",
+				"omrade" : "Fredriksdal",
+				"url" : "http://www.sallybauer.com/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7026369485, 56.0523341197 ]
+			},
+			"properties" : {
+				"OBJECTID" : 147,
+				"namn" : "Slottshöjdens skola",
+				"gatuadress" : "Hebsackersgatan 41",
+				"omrade" : "Slottshöjden",
+				"url" : "http://www.slottshojdens.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.74336711, 56.045839838 ]
+			},
+			"properties" : {
+				"OBJECTID" : 151,
+				"namn" : "Vittra Adolfsberg",
+				"gatuadress" : "Södra Hunnetorpsvägen 52",
+				"omrade" : "Adolfsberg",
+				"url" : "https://vittra.se/adolfsberg/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7011161312, 56.0457544621 ]
+			},
+			"properties" : {
+				"OBJECTID" : 152,
+				"namn" : "Vittra Landborgen",
+				"gatuadress" : "Bergaliden 9",
+				"omrade" : "Centrum",
+				"url" : "https://vittra.se/landborgen/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8534948096, 55.9609482632 ]
+			},
+			"properties" : {
+				"OBJECTID" : 154,
+				"namn" : "Wallåkrabygdens förskola-skola",
+				"gatuadress" : "Ryavägen 15",
+				"omrade" : "Vallåkra",
+				"url" : "http://www.wallakraskolaochforskola.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6959923403, 56.0490951717 ]
+			},
+			"properties" : {
+				"OBJECTID" : 222,
+				"namn" : "Långvinkeln Dibber",
+				"gatuadress" : "Nedre Långvinkelsgatan 22-26",
+				"omrade" : "Centrum",
+				"url" : "https://dibber.se/skola/langvinkeln-dibber/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Fristående",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6945148657, 56.1119234075 ]
+			},
+			"properties" : {
+				"OBJECTID" : 104,
+				"namn" : "Allerums skola",
+				"gatuadress" : "Jonstorpsvägen 224",
+				"omrade" : "Allerum",
+				"url" : "http://www.helsingborg.se/allerumsskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7362508184, 56.0675985515 ]
+			},
+			"properties" : {
+				"OBJECTID" : 105,
+				"namn" : "Anneroskolan",
+				"gatuadress" : "Annerovägen 54",
+				"omrade" : "Dalhem",
+				"url" : "https://anneroskolan.helsingborg.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7423058937, 56.0204935106 ]
+			},
+			"properties" : {
+				"OBJECTID" : 106,
+				"namn" : "Brunnsparksskolan",
+				"gatuadress" : "Hårlemans allé 11",
+				"omrade" : "Ramlösa",
+				"url" : "http://www.helsingborg.se/brunnsparksskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8068108027, 56.0086704045 ]
+			},
+			"properties" : {
+				"OBJECTID" : 107,
+				"namn" : "Bårslövs skola",
+				"gatuadress" : "Snödroppegatan 2",
+				"omrade" : "Bårslöv",
+				"url" : "http://www.helsingborg.se/barslovsskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7275478052, 56.0628596767 ]
+			},
+			"properties" : {
+				"OBJECTID" : 111,
+				"namn" : "Drottninghögsskolan",
+				"gatuadress" : "Blåkullagatan 9",
+				"omrade" : "Drottninghög",
+				"url" : "http://www.helsingborg.se/drottninghogsskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7255684488, 56.0293330667 ]
+			},
+			"properties" : {
+				"OBJECTID" : 112,
+				"namn" : "Elinebergsskolan",
+				"gatuadress" : "Ramlösavägen 90",
+				"omrade" : "Elineberg",
+				"url" : "http://www.helsingborg.se/elinebergsskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8023727311, 55.9870849406 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115,
+				"namn" : "Gantofta skola",
+				"gatuadress" : "Östra Läraregatan 1",
+				"omrade" : "Gantofta",
+				"url" : "http://www.helsingborg.se/gantoftaskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7480704444, 56.0977606307 ]
+			},
+			"properties" : {
+				"OBJECTID" : 116,
+				"namn" : "Gläntanskolan",
+				"gatuadress" : "Merkuriusgatan 200",
+				"omrade" : "Ödåkra",
+				"url" : "http://www.helsingborg.se/glantanskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7557963658, 56.0385873183 ]
+			},
+			"properties" : {
+				"OBJECTID" : 117,
+				"namn" : "Gustavslundsskolan",
+				"gatuadress" : "Mangårdsgatan 70",
+				"omrade" : "Gustavslund",
+				"url" : "https://gustavslundsskolan.helsingborg.se/",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6538668156, 56.0981752107 ]
+			},
+			"properties" : {
+				"OBJECTID" : 118,
+				"namn" : "Holstagårdsskolan",
+				"gatuadress" : "Gummarpsvägen 7",
+				"omrade" : "Hittarp/Laröd",
+				"url" : "http://www.helsingborg.se/holstagardsskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.729697495, 56.0411017094 ]
+			},
+			"properties" : {
+				"OBJECTID" : 119,
+				"namn" : "Husensjö skola",
+				"gatuadress" : "Kalmargatan 23",
+				"omrade" : "Husensjö",
+				"url" : "http://www.helsingborg.se/husensjoskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7090237196, 56.0465080072 ]
+			},
+			"properties" : {
+				"OBJECTID" : 122,
+				"namn" : "International School 6-9",
+				"gatuadress" : "Studievägen 2",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/internationalschool",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.702304818, 56.0479564341 ]
+			},
+			"properties" : {
+				"OBJECTID" : 123,
+				"namn" : "International School F-5",
+				"gatuadress" : "Östra Vallgatan 9",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/internationalschool",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6469417513, 56.0955915748 ]
+			},
+			"properties" : {
+				"OBJECTID" : 129,
+				"namn" : "Laröds skola",
+				"gatuadress" : "Hittarpsvägen 2",
+				"omrade" : "Hittarp/Laröd",
+				"url" : "http://www.helsingborg.se/larodsskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7028698655, 56.0783592313 ]
+			},
+			"properties" : {
+				"OBJECTID" : 131,
+				"namn" : "Maria Parkskolan 6-9",
+				"gatuadress" : "Kullavägen 130",
+				"omrade" : "Mariastaden",
+				"url" : "http://www.helsingborg.se/mariaparkskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7012673337, 56.0489950336 ]
+			},
+			"properties" : {
+				"OBJECTID" : 133,
+				"namn" : "Musikgrundskolan Synkopen",
+				"gatuadress" : "Bergaliden 24",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/synkopen",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8774103064, 56.058079616 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134,
+				"namn" : "Mörarps skola",
+				"gatuadress" : "Brandmansgatan 4",
+				"omrade" : "Mörarp",
+				"url" : "http://www.helsingborg.se/morarpsskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7248395127, 56.0491776883 ]
+			},
+			"properties" : {
+				"OBJECTID" : 135,
+				"namn" : "Nanny Palmkvist skola",
+				"gatuadress" : "Ludvikagatan 55",
+				"omrade" : "Rosengården",
+				"url" : "http://www.helsingborg.se/nannypalmkvistskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.813354757, 56.0310148081 ]
+			},
+			"properties" : {
+				"OBJECTID" : 138,
+				"namn" : "Påarps skola",
+				"gatuadress" : "Ekebergavägen 9",
+				"omrade" : "Påarp",
+				"url" : "http://www.helsingborg.se/paarpsskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7103697281, 56.0246527641 ]
+			},
+			"properties" : {
+				"OBJECTID" : 140,
+				"namn" : "Raus Planterings skola",
+				"gatuadress" : "Östra Tallgatan 10",
+				"omrade" : "Planteringen",
+				"url" : "http://www.helsingborg.se/rausplanteringsskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7024834218, 56.0647911615 ]
+			},
+			"properties" : {
+				"OBJECTID" : 141,
+				"namn" : "Ringstorpsskolan",
+				"gatuadress" : "Ryttmästaregatan 2",
+				"omrade" : "Ringstorp",
+				"url" : "http://www.helsingborg.se/ringstorpsskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7733098447, 55.9667828127 ]
+			},
+			"properties" : {
+				"OBJECTID" : 142,
+				"namn" : "Rydebäcksskolan",
+				"gatuadress" : "Storövägen 51",
+				"omrade" : "Rydebäck",
+				"url" : "http://www.helsingborg.se/rydebacksskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.739229864, 55.997172897 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143,
+				"namn" : "Råå Södra Skola",
+				"gatuadress" : "Kustgatan 1",
+				"omrade" : "Råå",
+				"url" : "http://www.helsingborg.se/raasodraskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6894805181, 56.0521079167 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144,
+				"namn" : "S:t Jörgens skola",
+				"gatuadress" : "Pålsgatan 8",
+				"omrade" : "Norr",
+				"url" : "http://www.helsingborg.se/stjorgensskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7013466372, 56.0490404548 ]
+			},
+			"properties" : {
+				"OBJECTID" : 148,
+				"namn" : "Slottsvångsskolan",
+				"gatuadress" : "Bergaliden 24",
+				"omrade" : "Olympia",
+				"url" : "http://www.helsingborg.se/slottsvangsskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7533461706, 56.1033005431 ]
+			},
+			"properties" : {
+				"OBJECTID" : 149,
+				"namn" : "Svensgårdsskolan",
+				"gatuadress" : "Katedergatan 2",
+				"omrade" : "Ödåkra",
+				"url" : "http://www.helsingborg.se/svensgardsskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7090291869, 56.0391685353 ]
+			},
+			"properties" : {
+				"OBJECTID" : 150,
+				"namn" : "Söderskolan",
+				"gatuadress" : "Magistergatan 2",
+				"omrade" : "Högaborg",
+				"url" : "http://www.helsingborg.se/soderskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7079182094, 56.0732000608 ]
+			},
+			"properties" : {
+				"OBJECTID" : 153,
+				"namn" : "Västra Berga skola",
+				"gatuadress" : "Kadettgatan 38",
+				"omrade" : "Berga",
+				"url" : "http://www.helsingborg.se/vastrabergaskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7190620575, 56.0411307106 ]
+			},
+			"properties" : {
+				"OBJECTID" : 155,
+				"namn" : "Wieselgrensskolan",
+				"gatuadress" : "Furutorpsgatan 85",
+				"omrade" : "Wilson Park",
+				"url" : "http://www.helsingborg.se/wieselgrensskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7583334901, 56.0101643813 ]
+			},
+			"properties" : {
+				"OBJECTID" : 156,
+				"namn" : "Ättekullaskolan",
+				"gatuadress" : "Ättekullagatan 28",
+				"omrade" : "Ättekulla",
+				"url" : "http://www.helsingborg.se/attekullaskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7304721261, 56.0091830111 ]
+			},
+			"properties" : {
+				"OBJECTID" : 220,
+				"namn" : "Högastensskolan",
+				"gatuadress" : "Elektrogatan 1 A",
+				"omrade" : "Högasten",
+				"url" : "http://www.helsingborg.se/hogastensskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7904868054, 56.1411783129 ]
+			},
+			"properties" : {
+				"OBJECTID" : 221,
+				"namn" : "Kattarps skola",
+				"gatuadress" : "Hasslarpsvägen 2-4",
+				"omrade" : "Kattarp",
+				"url" : "http://www.helsingborg.se/kattarpsskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6867804361, 56.0805941726 ]
+			},
+			"properties" : {
+				"OBJECTID" : 223,
+				"namn" : "Maria Parkskolan F-5",
+				"gatuadress" : "Östra Allèn 8-10",
+				"omrade" : "Mariastaden",
+				"url" : "http://www.helsingborg.se/mariaparkskolan",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6969982665, 56.0569362758 ]
+			},
+			"properties" : {
+				"OBJECTID" : 224,
+				"namn" : "Tågaborgsskolan",
+				"gatuadress" : "Hjälmhultsgatan 17",
+				"omrade" : "Tågaborg S",
+				"url" : "http://www.helsingborg.se/tagaborgsskolan ",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7321867497, 56.0552413024 ]
+			},
+			"properties" : {
+				"OBJECTID" : 225,
+				"namn" : "Välkomsten",
+				"gatuadress" : "Filbornavägen 101",
+				"omrade" : "Wilson Park",
+				"url" : "",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7405970221, 56.0332918501 ]
+			},
+			"properties" : {
+				"OBJECTID" : 226,
+				"namn" : "Västra Ramlösa skola",
+				"gatuadress" : "S Hunnetorpsvägen 213",
+				"omrade" : "Gustavslund",
+				"url" : "http://www.helsingborg.se/vastraramlosaskola",
+				"skoltyp" : "grundskola",
+				"huvudman" : "Helsingborgs stads skolor",
+				"uppdaterat_datum" : "2022-02-08"
+			}
+		}
+	]
+}
